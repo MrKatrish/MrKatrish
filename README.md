@@ -6,9 +6,12 @@
 <br>
 
 <section id="stats">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrKatrish&theme=aura_dark" alt="GithubStat"/>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrKatrish&theme=aura_dark" alt="Stats"/>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrKatrish&theme=aura_dark" alt="ProgramLanguage"/>
+ <div align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrKatrish&theme=aura_dark" alt="GithubStat"/></div>
+
+ </br>
+
+ <div align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrKatrish&theme=aura_dark" alt="Stats"/>
+ <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrKatrish&theme=aura_dark" alt="ProgramLanguage"/></div>
 </section>
 
 ## Language and Tools
